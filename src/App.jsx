@@ -1,3 +1,4 @@
+// This file contains the website's content and component structure
 import './App.css'
 import profileImage from './assets/profile.png'
 

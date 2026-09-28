@@ -1,3 +1,4 @@
+// This file starts the React app and renders it into the page
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
